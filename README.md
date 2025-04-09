@@ -62,3 +62,7 @@ Here are some visuals of the system:
 ### 🔹 HomePage
 
 ![HomePage](screenshots/home.png)
+
+### 🔹 AboutPage
+
+![AboutPage](screenshots/about.png)
