@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-The Men's Hair Salon Management System is a tailored software solution developed to modernize and automate the essential operations of a men's grooming salon. Salon management traditionally involves time-consuming manual processes like booking appointments, managing service offerings, maintaining inventory, and handling payments often leading to inefficiencies, errors, and poor customer experiences.
+Men's Hair Salon Management System is a modern and user-friendly web application designed to automate and streamline salon operations. Built with PHP, MySQL, JavaScript, HTML and CSS, it simplifies tasks like real-time appointment booking, membership management, inventory tracking, and secure payments. By replacing manual processes, the system improves efficiency, reduces errors, and enhances the overall customer experience for grooming salons.
 
 This web-based system simplifies salon operations by automating key functions such as:
 
