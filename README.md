@@ -106,7 +106,6 @@ Here are some visuals of the system:
 ![User Payment](screenshots/user-payment.png)
 
 ---
----
 
 ### 🧑‍💼 Admin Panel
 
