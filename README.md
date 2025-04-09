@@ -66,3 +66,48 @@ Here are some visuals of the system:
 ### 🔹 AboutPage
 
 ![AboutPage](screenshots/about.png)
+
+### 🔹 ServicePage
+
+![ServicePage](screenshots/service.png)
+
+### 🔹 E-shop
+
+![E-shop](screenshots/inventry.png)
+
+### 🔹 MemberShip
+
+![Membership](screenshots/membership.png)
+
+### 🔹 ContactPage
+
+![ContactPage](screenshots/contact.png)
+
+### 🔹 LoginPage
+
+![LoginPage](screenshots/login.png)
+
+### 🔹 RegistrationPage
+
+![RegisterPage](screenshots/register.png)
+
+## ----------- User Side --------------
+### 🔹 Dashboard
+
+![Dashboard](screenshots/user-dashboard.png)
+
+### 🔹 ServicePage
+
+![ServicePage](screenshots/service.png)
+
+### 🔹 ServicePage
+
+![ServicePage](screenshots/service.png)
+
+### 🔹 ServicePage
+
+![ServicePage](screenshots/service.png)
+
+### 🔹 ServicePage
+
+![ServicePage](screenshots/service.png)
