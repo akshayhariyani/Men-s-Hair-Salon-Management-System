@@ -83,14 +83,6 @@ Here are some visuals of the system:
 
 ![ContactPage](screenshots/contact.png)
 
-### 🔹 LoginPage
-
-![LoginPage](screenshots/login.png)
-
-### 🔹 RegistrationPage
-
-![RegisterPage](screenshots/register.png)
-
 ### 👤 User Panel
 
 #### 📊 Dashboard
@@ -108,6 +100,10 @@ Here are some visuals of the system:
 #### 💼 User Wallet
 
 ![User Wallet](screenshots/user-wallet.png)
+
+#### 💳 Payment Page  
+
+![User Payment](screenshots/user-payment.png)
 
 ---
 
