@@ -1,4 +1,4 @@
-# 💈 Men's Hair Salon Management System
+# Men's Hair Salon Management System
 
 ## 📖 Overview
 
