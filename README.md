@@ -33,6 +33,9 @@ Built using PHP and MySQL, the system offers a user-friendly interface that impr
 - 💳 **Payment & Transaction Management**  
   Seamlessly handle billing and generate payment receipts.
 
+-💼 **Wallet System for Cancellations**
+  When a user cancels a booking, the refunded amount is securely credited to their in-app wallet for future use.
+
 - 📊 **Reports & Analytics**  
   Generate business performance reports to track sales and appointments.
 
