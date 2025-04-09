@@ -111,7 +111,7 @@ Here are some visuals of the system:
 
 ---
 
-### 🛠️ Admin Panel
+### 🧑‍💼 Admin Panel
 
 #### 📊 Dashboard
 
