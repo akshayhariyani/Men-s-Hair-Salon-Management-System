@@ -1,10 +1,8 @@
 # 💈 Men's Hair Salon Management System
 
-![Salon Banner](screenshots/salon-banner.png)
-
 ## 📖 Overview
 
-The **Men's Hair Salon Management System** is a complete software solution designed to streamline and digitize the daily operations of men's hair salons. Traditionally, salons rely on manual processes for appointment scheduling, inventory management, and payment handling—this can lead to inefficiencies and customer dissatisfaction.
+The Men's Hair Salon Management System is a tailored software solution developed to modernize and automate the essential operations of a men's grooming salon. Salon management traditionally involves time-consuming manual processes like booking appointments, managing service offerings, maintaining inventory, and handling payments often leading to inefficiencies, errors, and poor customer experiences.
 
 This web-based system simplifies salon operations by automating key functions such as:
 
@@ -14,7 +12,7 @@ This web-based system simplifies salon operations by automating key functions su
 - 🧴 Inventory tracking (Haircare, Beardcare, Skincare products)
 - 💰 Secure payment processing & transaction tracking
 
-Developed using **PHP** and **MySQL**, the platform offers a responsive user interface to improve salon workflow and customer experience.
+Built using PHP and MySQL, the system offers a user-friendly interface that improves operational efficiency and customer satisfaction.
 
 ---
 
@@ -51,7 +49,6 @@ Developed using **PHP** and **MySQL**, the platform offers a responsive user int
 | MySQL      | Relational database       |
 | HTML5/CSS3 | Frontend design           |
 | JavaScript | Interactive UI elements   |
-| Bootstrap  | Responsive UI framework   |
 
 ---
 
