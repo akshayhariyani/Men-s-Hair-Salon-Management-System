@@ -91,23 +91,38 @@ Here are some visuals of the system:
 
 ![RegisterPage](screenshots/register.png)
 
-## ----------- User Side --------------
-### 🔹 Dashboard
+### 👤 User Panel
 
-![Dashboard](screenshots/user-dashboard.png)
+#### 📊 Dashboard
 
-### 🔹 ServicePage
+![User Dashboard](screenshots/user-dashboard.png)
 
-![ServicePage](screenshots/service.png)
+#### 📅 Appointment Booking
 
-### 🔹 ServicePage
+![User Appointment](screenshots/user-appointment.png)
 
-![ServicePage](screenshots/service.png)
+#### 🛒 Shopping Cart
 
-### 🔹 ServicePage
+![User Cart](screenshots/user-cart.png)
 
-![ServicePage](screenshots/service.png)
+#### 💼 User Wallet
 
-### 🔹 ServicePage
+![User Wallet](screenshots/user-wallet.png)
 
-![ServicePage](screenshots/service.png)
+---
+
+### 🛠️ Admin Panel
+
+#### 📊 Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+#### 📦 Orders Management
+
+![Admin Orders](screenshots/admin-orders.png)
+
+#### 🧴 Products Management
+
+![Admin Products](screenshots/admin-product.png)
+
+---
