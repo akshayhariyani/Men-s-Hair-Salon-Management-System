@@ -66,3 +66,63 @@ Here are some visuals of the system:
 ### 🔹 AboutPage
 
 ![AboutPage](screenshots/about.png)
+
+### 🔹 ServicePage
+
+![ServicePage](screenshots/service.png)
+
+### 🔹 E-shop
+
+![E-shop](screenshots/inventry.png)
+
+### 🔹 MemberShip
+
+![Membership](screenshots/membership.png)
+
+### 🔹 ContactPage
+
+![ContactPage](screenshots/contact.png)
+
+### 🔹 LoginPage
+
+![LoginPage](screenshots/login.png)
+
+### 🔹 RegistrationPage
+
+![RegisterPage](screenshots/register.png)
+
+### 👤 User Panel
+
+#### 📊 Dashboard
+
+![User Dashboard](screenshots/user-dashboard.png)
+
+#### 📅 Appointment Booking
+
+![User Appointment](screenshots/user-appointment.png)
+
+#### 🛒 Shopping Cart
+
+![User Cart](screenshots/user-cart.png)
+
+#### 💼 User Wallet
+
+![User Wallet](screenshots/user-wallet.png)
+
+---
+
+### 🧑‍💼 Admin Panel
+
+#### 📊 Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+#### 📦 Orders Management
+
+![Admin Orders](screenshots/admin-orders.png)
+
+#### 🧴 Products Management
+
+![Admin Products](screenshots/admin-product.png)
+
+---
